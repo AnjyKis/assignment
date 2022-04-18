@@ -1,4 +1,3 @@
-import { test, expect } from '@jest/globals';
 import hammingWeight from '../src/array/hammingWeight.js';
 
 test('hammingWeight', () => {

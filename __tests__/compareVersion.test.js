@@ -1,4 +1,3 @@
-import { test, expect } from '@jest/globals';
 import compareVersion from '../src/array/compareVersion.js';
 
 test('compareVersion', () => {

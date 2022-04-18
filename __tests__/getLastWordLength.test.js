@@ -1,4 +1,3 @@
-import { test, expect } from '@jest/globals';
 import getLastWordLength from '../src/array/getLastWordLength.js';
 
 test('getLastWordLength', () => {
