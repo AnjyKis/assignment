@@ -6,6 +6,10 @@
   "scripts": {
     "test": "npx jest --bail"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AnjyKis/assignment.git"
+  },
   "type": "module",
   "author": "",
   "license": "ISC",
